@@ -10,3 +10,4 @@ And a conflicting changed or two done in master.
 
 
 More changes directly in master.
+Updates from VS 2017
