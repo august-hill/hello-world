@@ -5,3 +5,4 @@ This is some information that is currently being changed in the readme-edits bra
 
 And some more changes in the readme-edits branch.
 
+Updates from VS 2017
